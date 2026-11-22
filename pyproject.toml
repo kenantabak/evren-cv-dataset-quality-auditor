@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=65.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "evren-cv-dataset-quality-auditor"
+version = "1.2.0"
+description = "Automated Computer Vision dataset quality & health auditing toolkit for YOLO26/YOLO11 and COCO pipelines"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Kenan Tabak"}]
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.23"]
+
+[project.scripts]
+evren-audit = "dataset_auditor.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
