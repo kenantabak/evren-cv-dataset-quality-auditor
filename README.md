@@ -1,6 +1,6 @@
 # EVREN CV Dataset Quality Auditor (`evren-cv-dataset-quality-auditor`)
 
-Production data-engineering toolkit used to audit, sanitize, and maintain **342 Grade-A open Turkish Computer Vision datasets (3.361.714 images · 31.297.627 annotations)** and **140 PRODUCTION YOLO26 / YOLO11 models** on [EVREN (`evren.ssyz.org.tr`)](https://evren.ssyz.org.tr/users/u19979974710e) and [Hugging Face (`huggingface.co/kenantabak`)](https://huggingface.co/kenantabak).
+Production data-engineering toolkit used to audit, sanitize, and maintain **342 Grade-A open Turkish Computer Vision datasets (3.369.548 images · 31.801.667 annotations)** and **140 PRODUCTION YOLO26 / YOLO11 models** on [EVREN (`evren.ssyz.org.tr`)](https://evren.ssyz.org.tr/users/u19979974710e) and [Hugging Face (`huggingface.co/kenantabak`)](https://huggingface.co/kenantabak).
 
 ## Key Engineering Features
 
