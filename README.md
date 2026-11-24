@@ -1,6 +1,6 @@
 # EVREN CV Dataset Quality Auditor (`evren-cv-dataset-quality-auditor`)
 
-Production data-engineering toolkit used to audit, sanitize, and maintain **342 Grade-A open Turkish Computer Vision datasets (3.369.548 images · 31.801.667 annotations)** and **140 PRODUCTION YOLO26 / YOLO11 models** on [EVREN (`evren.ssyz.org.tr`)](https://evren.ssyz.org.tr/users/u19979974710e) and [Hugging Face (`huggingface.co/kenantabak`)](https://huggingface.co/kenantabak).
+Production data-engineering toolkit used to audit, sanitize, and maintain **355 Grade-A open Turkish Computer Vision datasets (3.440.593 images · 32.002.911 annotations)** and **153 PRODUCTION YOLO26 / YOLO11 models** on [EVREN (`evren.ssyz.org.tr`)](https://evren.ssyz.org.tr/users/u19979974710e) and [Hugging Face (`huggingface.co/kenantabak`)](https://huggingface.co/kenantabak).
 
 ## Key Engineering Features
 
@@ -21,12 +21,3 @@ evren-audit --labeled-ratio 1.0 --unique-ratio 1.0 --valid-box-ratio 0.99
 
 - **EVREN Profile:** [Kenan Tabak (`@u19979974710e`)](https://evren.ssyz.org.tr/users/u19979974710e)
 - **Hugging Face Hub (19 Models · 10 Dataset Suites · 4 Spaces):** [huggingface.co/kenantabak](https://huggingface.co/kenantabak)
-
----
-
-### 🔗 EVREN Open-Source Ecosystem
-- **EVREN Platform:** [evren.ssyz.org.tr/users/u19979974710e](https://evren.ssyz.org.tr/users/u19979974710e) (`342` Grade-A Datasets · `185` Models)
-- **Live Browser ONNX Demo Space:** [EVREN-Live-Object-Detection-Demo](https://huggingface.co/spaces/kenantabak/EVREN-Live-Object-Detection-Demo)
-- **Hugging Face Portfolio:** [huggingface.co/kenantabak](https://huggingface.co/kenantabak) (`19` Production Models · `10` Datasets · `4` Spaces)
-- **GitHub:** [github.com/kenantabak](https://github.com/kenantabak)
-- **Dev.to Technical Series:** [dev.to/kenantabak](https://dev.to/kenantabak)
