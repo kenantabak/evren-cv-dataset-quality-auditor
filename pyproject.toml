@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "evren-cv-dataset-quality-auditor"
 version = "1.2.0"
-description = "Automated Computer Vision dataset quality & health auditing toolkit for YOLO26/YOLO11 and COCO pipelines"
+description = "Automated Computer Vision dataset quality & health auditing toolkit for YOLO, DETR and COCO pipelines"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [{name = "Kenan Tabak"}]
